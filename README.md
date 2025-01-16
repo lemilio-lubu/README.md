@@ -10,8 +10,6 @@
 
 ## **About Me**
 
-<img src="[URL_A_TU_IMAGEN]" alt="Profile Picture" width="160px" align="right">
-
 - 🌟 A passionate **Back-End Developer**, involved in the development of **Artificial Intelligence** and with expertise in **Software Design**.
 - 🤖 Skilled in creating AI models and integrating them into **APIs** for scalable and practical applications.
 - 🎓 Currently studying **Software Engineering** at Escuela Politecnica Nacional.
